@@ -1,0 +1,15 @@
+/Users/nastya/Education/C_education/Seminar4/Ex25/obj/Debug/net6.0/Ex25.csproj.AssemblyReference.cache
+/Users/nastya/Education/C_education/Seminar4/Ex25/obj/Debug/net6.0/Ex25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nastya/Education/C_education/Seminar4/Ex25/obj/Debug/net6.0/Ex25.AssemblyInfoInputs.cache
+/Users/nastya/Education/C_education/Seminar4/Ex25/obj/Debug/net6.0/Ex25.AssemblyInfo.cs
+/Users/nastya/Education/C_education/Seminar4/Ex25/obj/Debug/net6.0/Ex25.csproj.CoreCompileInputs.cache
+/Users/nastya/Education/C_education/Seminar4/Ex25/bin/Debug/net6.0/Ex25
+/Users/nastya/Education/C_education/Seminar4/Ex25/bin/Debug/net6.0/Ex25.deps.json
+/Users/nastya/Education/C_education/Seminar4/Ex25/bin/Debug/net6.0/Ex25.runtimeconfig.json
+/Users/nastya/Education/C_education/Seminar4/Ex25/bin/Debug/net6.0/Ex25.dll
+/Users/nastya/Education/C_education/Seminar4/Ex25/bin/Debug/net6.0/Ex25.pdb
+/Users/nastya/Education/C_education/Seminar4/Ex25/obj/Debug/net6.0/Ex25.dll
+/Users/nastya/Education/C_education/Seminar4/Ex25/obj/Debug/net6.0/refint/Ex25.dll
+/Users/nastya/Education/C_education/Seminar4/Ex25/obj/Debug/net6.0/Ex25.pdb
+/Users/nastya/Education/C_education/Seminar4/Ex25/obj/Debug/net6.0/Ex25.genruntimeconfig.cache
+/Users/nastya/Education/C_education/Seminar4/Ex25/obj/Debug/net6.0/ref/Ex25.dll
